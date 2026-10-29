@@ -1,0 +1,29 @@
+class AppAssets {
+  static String carrotSVG = 'assets/images/carrot.svg';
+  static String fullLogoSVG = 'assets/images/fullLogo.svg';
+  static String welcomeImage = 'assets/images/welcomeImage.png';
+  static String coloredCarrotSVG = 'assets/images/coloredCarrotSVG.svg';
+  static String accountIconSVG = 'assets/icons/accountIcon.svg';
+  static String cartIconSVG = 'assets/icons/cartIcon.svg';
+  static String favouriteIconSVG = 'assets/icons/favouriteIcon.svg';
+  static String shopIconSVG = 'assets/icons/shopIcon.svg';
+  static String exploreIconSVG = 'assets/icons/explorIcon.svg';
+  static String bananaImage = 'assets/images/banana.png';
+  static String appleImage = 'assets/images/apple.png';
+  static String gingerImage = "assets/images/ginger.png";
+  static String bellPepperRed = "assets/images/bellPepperRed.png";
+  static String mangoImage = "assets/images/mango.png";
+  static String fruitsAndVegi = "assets/images/fruits&vegi.png";
+  static String cookingOil = "assets/images/cookingOil.png";
+  static String meatAndFish = "assets/images/meatAndFish.png";
+  static String bakeryAndSnacks = "assets/images/bakeryAndSnacks.png";
+  static String dairyAndEggs = "assets/images/dairyAndEggs.png";
+  static String drinks = "assets/images/drinks.png";
+  static String acceptedIconSVG = "assets/icons/acceptedIcon.svg";
+  static String dietCoke = "assets/images/dietCoke.png";
+  static String cocaCola = "assets/images/cocaCola.png";
+  static String sprite = "assets/images/sprite.png";
+  static String pepsi = "assets/images/pepsi.png";
+  static String orangeJuice = "assets/images/orangeJuice.png";
+  static String appleJuice = "assets/images/appleJuice.png";
+}

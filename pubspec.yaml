@@ -1,0 +1,86 @@
+name: ibrahim
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.3.0
+  gap: ^3.0.1
+  pinput: ^6.0.2
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/carrot.svg
+    - assets/images/fullLogo.svg
+    - assets/images/welcomeImage.png
+    - assets/images/coloredCarrotSVG.svg
+    - assets/icons/accountIcon.svg
+    - assets/icons/cartIcon.svg
+    - assets/icons/favouriteIcon.svg
+    - assets/icons/shopIcon.svg
+    - assets/icons/explorIcon.svg
+    - assets/images/banana.png
+    - assets/images/apple.png
+    - assets/images/ginger.png
+    - assets/images/bellPepperRed.png
+    - assets/images/mango.png
+    - assets/images/fruits&vegi.png
+    - assets/images/cookingOil.png
+    - assets/images/meatAndFish.png
+    - assets/images/bakeryAndSnacks.png
+    - assets/images/dairyAndEggs.png
+    - assets/images/drinks.png
+    - assets/icons/acceptedIcon.svg
+    - assets/images/pepsi.png
+    - assets/images/cocaCola.png
+    - assets/images/orangeJuice.png
+    - assets/images/appleJuice.png
+    - assets/images/sprite.png
+    - assets/images/dietCoke.png
+    - assets/readMeImages/splash.png
+    - assets/readMeImages/welcome.png
+    - assets/readMeImages/login.png
+    - assets/readMeImages/categories.png
+    - assets/readMeImages/categoryProducts.png
+    - assets/readMeImages/categoryProducts2.png
+    - assets/readMeImages/mobileNum.png
+    - assets/readMeImages/productDetails.png
+    - assets/readMeImages/productDetails2.png
+    - assets/readMeImages/productDetails3.png
+    - assets/readMeImages/shop1.png
+    - assets/readMeImages/shop2.png
+    - assets/readMeImages/signUp.png
+    - assets/readMeImages/veiCode.png
+    - assets/readMeImages/veriCode2.png
+    - assets/readMeImages/cart.png
+    - assets/readMeImages/sheetBottom.png
+    - assets/readMeImages/accepted.png
+    - assets/readMeImages/search.png
+    - assets/readMeImages/favourite.png
+    - assets/readMeImages/account.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
